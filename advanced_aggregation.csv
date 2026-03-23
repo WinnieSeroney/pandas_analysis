@@ -1,0 +1,7 @@
+Date,Product,Category,Revenue,Units_Sold,Customer_Rating
+2024-01-01,Espresso,Coffee,750,3,4.5
+2024-01-02,Latte,Coffee,900,3,4.2
+2024-01-03,Cappuccino,Coffee,560,2,4.0
+2024-01-04,Muffin,Bakery,500,5,4.3
+2024-01-05,Croissant,Bakery,600,3,4.8
+2024-01-06,Latte,Coffee,1200,4,4.6
