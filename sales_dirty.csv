@@ -1,0 +1,8 @@
+Date,Product,Category,Price,Quantity_Sold,Customer_Rating
+2024-01-01,Espresso,Coffee,250,3,4.5
+2024-01-02,Latte,Coffee,300,,4.0
+2024-01-03,Cappuccino,Coffee,280,2,
+2024-01-03,Cappuccino,Coffee,280,2,
+2024-01-04,Muffin,Bakery,,5,4.2
+2024-01-05,Croissant,Bakery,200,3,4.8
+,Mocha,Coffee,320,1,3.9
