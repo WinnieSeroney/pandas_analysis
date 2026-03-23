@@ -1,0 +1,11 @@
+Date,Product,Price,Quantity_Sold,Customer_Rating
+2023-10-01,Cappuccino,4.5,20,4.8
+2023-10-01,Latte,4.0,15,4.2
+2023-10-01,Espresso,3.0,30,3.9
+2023-10-02,Latte,4.0,25,4.5
+2023-10-02,Cappuccino,4.5,18,4.7
+2023-10-02,Espresso,3.0,35,4.0
+2023-10-03,Cappuccino,4.5,22,4.9
+2023-10-03,Latte,4.0,10,3.5
+2023-10-03,Espresso,3.0,40,4.1
+2023-10-04,Latte,4.0,30,4.6
